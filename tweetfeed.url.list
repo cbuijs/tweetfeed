@@ -124,6 +124,7 @@ http://101.34.243.60:8888/supershell/login
 http://101.34.58.211:443
 http://101.34.82.117:9443
 http://101.34.83.35:443
+http://101.35.227.40:443
 http://101.35.255.93:8888
 http://101.36.104.46
 http://101.36.111.175:2053
@@ -386,6 +387,7 @@ http://107.173.2.22:111
 http://107.173.2.22:222
 http://107.173.30.114:8989
 http://107.173.57.243:8888
+http://107.174.121.240:80
 http://107.174.147.15:53
 http://107.174.228.79:443
 http://107.174.235.118:55501
@@ -542,6 +544,7 @@ http://115.159.62.32:80
 http://115.159.62.32:81
 http://115.188.115.143:443
 http://115.29.202.95:8000
+http://116.108.99.192:8808
 http://116.196.82.90:443
 http://116.196.92.13:9095
 http://116.198.34.83:2086
@@ -579,6 +582,7 @@ http://117.72.39.83:43872
 http://117.72.46.146:80
 http://117.72.46.146:8443
 http://117.72.65.27:80
+http://117.72.69.250:3232
 http://117.72.72.128:80
 http://117.72.8.192:443
 http://118.161.6.183:443
@@ -830,6 +834,7 @@ http://128.199.141.212:80
 http://128.199.71.62:88
 http://128.204.223.115:36987
 http://128.90.106.188:9999
+http://128.90.106.224:8808
 http://128.90.113.104:9999
 http://128.90.113.216:9999
 http://128.90.116.115:443
@@ -842,6 +847,7 @@ http://129.211.215.7:80
 http://129.211.26.3:80
 http://129.211.31.181:443
 http://129.226.154.245:8888
+http://129.226.213.170:3232
 http://129.226.83.129:443
 http://13.113.63.238:80
 http://13.125.57.105:2762
@@ -870,6 +876,7 @@ http://13.61.24.68:80
 http://13.82.186.9:53092
 http://13.82.186.9:80
 http://130.164.138.166:443
+http://130.51.20.126:6732
 http://130.51.23.8:80
 http://130.63.213.199:443
 http://134.122.129.173:4433
@@ -932,6 +939,7 @@ http://139.59.239.123:53
 http://139.84.155.5:80
 http://139.84.168.246
 http://139.84.169.22
+http://139.9.107.79:55555
 http://139.9.134.28:443
 http://139.9.149.143:443
 http://139.9.149.143:80
@@ -1606,6 +1614,7 @@ http://159.112.177.137:80
 http://159.138.131.191:443
 http://159.138.151.224:8888
 http://159.138.153.205:8888
+http://159.138.40.40:2095
 http://159.203.166.179:443
 http://159.203.25.245:443
 http://159.203.67.15:443
@@ -1719,6 +1728,7 @@ http://167.99.67.177:443
 http://168.100.11.227:53
 http://168.119.178.154:443
 http://168.119.242.255:7742
+http://168.119.48.244:8080
 http://168.149.16.139:443
 http://168.149.58.6:443
 http://168.76.121.114
@@ -1738,10 +1748,12 @@ http://170.64.236.133:443
 http://171.41.197.221:25565
 http://172.111.136.105:2016
 http://172.111.218.218:443
+http://172.111.244.103:2889
 http://172.111.244.98:2889
 http://172.174.236.21:1337
 http://172.190.218.195:8089
 http://172.200.160.7:443
+http://172.232.170.66:8808
 http://172.232.62.81:443
 http://172.232.62.81:80
 http://172.232.96.214:8080
@@ -1867,6 +1879,7 @@ http://178.208.169.59:7070
 http://178.215.224.100:443
 http://178.215.224.223:1985
 http://178.236.46.118:443
+http://178.33.203.34:8808
 http://178.62.48.123:8000
 http://178.73.192.14:5000
 http://178.73.218.12:5000
@@ -1884,6 +1897,7 @@ http://179.13.3.18:8010
 http://179.13.3.199:8010
 http://179.13.4.37:8000
 http://179.13.4.37:8010
+http://179.13.4.98:8808
 http://179.13.5.17:8020
 http://179.43.147.220:443
 http://179.43.160.41:443
@@ -1934,6 +1948,7 @@ http://18.166.113.176:7777
 http://18.167.125.209:53
 http://18.167.180.192:443
 http://18.175.57.54:443
+http://18.183.60.128:80
 http://18.185.7.210:443
 http://18.189.229.254:80
 http://18.192.209.34:80
@@ -2057,6 +2072,8 @@ http://185.156.41.151
 http://185.158.114.143:443
 http://185.158.114.72:443
 http://185.158.251.61:8888
+http://185.16.38.84:20000
+http://185.16.38.84:2003
 http://185.161.208.123:6655
 http://185.17.105.152:443
 http://185.17.115.238:53
@@ -2233,6 +2250,7 @@ http://192.236.162.239:80
 http://192.236.176.143:443
 http://192.238.134.112
 http://192.238.134.50
+http://192.241.128.20:8808
 http://192.241.181.179:443
 http://192.241.181.179:80
 http://192.243.102.171:443
@@ -2513,6 +2531,7 @@ http://207.154.242.220:80
 http://207.154.255.140:8080
 http://207.174.3.152
 http://207.180.219.190:82
+http://207.231.104.150:8808
 http://207.246.120.23:8140
 http://207.246.74.189:53
 http://207.32.216.126:30685
@@ -2930,6 +2949,7 @@ http://34.141.169.93:443
 http://34.143.208.146:9999
 http://34.154.249.225:443
 http://34.162.170.92:80
+http://34.162.254.35:8808
 http://34.168.39.155:80
 http://34.174.78.212:80
 http://34.200.62.190:80
@@ -2941,6 +2961,8 @@ http://34.237.237.84:80
 http://34.244.179.71:445
 http://34.244.85.44:445
 http://34.245.203.232:445
+http://34.245.83.74:1962
+http://34.245.83.74:41812
 http://34.251.93.227:445
 http://34.255.45.37:445
 http://34.29.71.138:80
@@ -2968,6 +2990,7 @@ http://35.169.113.229:80
 http://35.178.190.68:5222
 http://35.179.177.158:7001
 http://35.181.5.63:28080
+http://35.183.121.254:18245
 http://35.183.18.22:6846
 http://35.221.150.166:80
 http://35.224.58.250:80
@@ -2998,6 +3021,7 @@ http://37.49.228.234
 http://37.56.101.159:995
 http://37.56.108.122:443
 http://38.12.1.42:443
+http://38.134.148.115:80
 http://38.14.255.134:2086
 http://38.147.170.150:5555
 http://38.147.170.150:8443
@@ -3466,6 +3490,7 @@ http://45.137.201.181:511
 http://45.138.16.236:5050
 http://45.139.225.45:443
 http://45.140.146.74:443
+http://45.141.12.199:1111
 http://45.141.136.133:2096
 http://45.141.177.4:7443
 http://45.141.177.4:80
@@ -3881,6 +3906,7 @@ http://49.113.72.182:8888
 http://49.113.75.108:8888
 http://49.113.76.153:8888
 http://49.13.68.31:443
+http://49.228.131.165:2425
 http://49.232.133.108:50050
 http://49.232.157.82:443
 http://49.232.191.68:443
@@ -3962,6 +3988,7 @@ http://5.42.92.25:8848
 http://5.44.252.28:443
 http://5.44.252.28:80
 http://5.75.162.217:43724
+http://5.75.234.8:8370
 http://5.78.70.86:443
 http://5.tcp.eu.ngrok.io
 http://50.16.200.52:53
@@ -4155,8 +4182,10 @@ http://65.20.106.109/admin/login.php
 http://65.20.107.130:8443
 http://65.20.98.31
 http://65.49.210.124:443
+http://66.165.227.66:8808
 http://66.179.240.177:80
 http://66.42.54.89:5555
+http://66.63.187.250/zcry/
 http://67.203.7.148:2909
 http://67.203.7.171
 http://67.203.7.245
@@ -4583,6 +4612,7 @@ http://85.209.176.46
 http://85.209.195.22:1337
 http://85.217.170.231:31337
 http://85.217.170.231:443
+http://85.235.74.79:8808
 http://85.239.246.117:443
 http://85.239.53.59:6316
 http://85.54.165.23:2222
@@ -4625,6 +4655,7 @@ http://87.120.116.179/files/
 http://87.120.116.89:50337
 http://87.120.117.89:8808
 http://87.120.120.22:1912
+http://87.120.120.4:1912
 http://87.120.120.7:1912
 http://87.120.84.220:8848
 http://87.120.84.56:2404
@@ -4806,6 +4837,7 @@ http://94.131.122.80:5009
 http://94.131.13.68:443
 http://94.136.189.145:31337
 http://94.136.189.145:8888
+http://94.154.35.80:8880
 http://94.156.10.201:8848
 http://94.156.10.208:8848
 http://94.156.10.31:8848
@@ -4940,6 +4972,7 @@ http://aeon.co.jp.ultimac.lkvya.cn
 http://aern-ne-jp.11bss.com/?3p0c2bt9
 http://aern-ne-jp.11bss.com/ap/sign.php?authenticated=true&openid%2Fgp%2Fsignin%2Fx%26i%3Da%26oauth%3Dm%26i%3Fie%3DUTF8%26ref_%3Drhf_custrec_signin
 http://aged-recipe-ad72.difaved194572.workers.dev/?key=53c4edc62420b27c9feb63d35ad2a88f&redirect=hxxps:/www.amazon.com
+http://agnosticx.com
 http://agrfactconlacess.eastasia.cloudapp.azure.com
 http://ahazine3.com
 http://airmail.cc
@@ -5039,6 +5072,7 @@ http://backupitfirst.com
 http://bajiahcberu222.com/webdav/
 http://basic-values.gl.at.ply.gg
 http://bassetthealthfood.com
+http://bblockchain-login.webflow.io
 http://bbvdey.cn
 http://bcfbcpuikp.co.jp
 http://bdenterprisesinc.com
@@ -5121,6 +5155,7 @@ http://cf.470469804.workers.dev
 http://cf1.rzli.workers.dev
 http://cffp.cloudfox.net
 http://cfilmes.com
+http://chandisin.com
 http://channeloninvitation.info
 http://chaoulin.com/ja/
 http://chase-87987b.ingress-earth.easywp.com/chase/8/XBALTI%20V5
@@ -5130,6 +5165,7 @@ http://cienegadeflores.gob.mx
 http://cihan05.duckdns.org
 http://cionfacttalleriproj.norwayeast.cloudapp.azure.com
 http://ckafiyz.co.jp
+http://ckoinbaseioprologin.godaddysites.com
 http://cl-correosx.top
 http://clarosecurity-com.duckdns.org
 http://clarosecurity-com.duckdns.org:2054
@@ -5502,6 +5538,7 @@ http://lanic.cn
 http://lapphuongshoe.com
 http://ldbmqt.cn
 http://ledgertools.pages.dev
+http://leechon.hackcrack.io
 http://leetman.dynuddns.com:1337
 http://lettuce-dgnb-v9k8.p3s55hhr.workers.dev
 http://lev-tolstoi.com
@@ -5702,6 +5739,7 @@ http://newintento777.duckdns.org:5554
 http://newintento777.duckdns.org:5556
 http://newnano-shel.duckdns.org:5552
 http://newwebclock.s3-website.ap-south-1.amazonaws.com/dnn200kxnzut1.cloudfront.net/index.html
+http://ngdisne.com
 http://ngrps.com
 http://ninedragonsfortress.com
 http://nj3i.cn
@@ -5752,6 +5790,12 @@ http://onedrive.com.ng/building/
 http://onefic1.com
 http://oneyoungworldbath.com
 http://onionmail.org
+http://online.efundingnetwork.com
+http://online.essaycorrection.com
+http://online.getyourredsoxon.com
+http://online.phungquach.com
+http://online.retrocandystore.com
+http://online.utrband.com
 http://onlinecardservice.com
 http://onstancu.net/ja/
 http://onwfacttasunslahf.norwayeast.cloudapp.azure.com
@@ -5773,6 +5817,7 @@ http://pameladunnparrish.com
 http://panaderiasanroman.com
 http://panel.tinygames.org
 http://panelpadpro.com
+http://papanwa.com
 http://papenfuseformayor.com
 http://parahoyestsidio.duckdns.org
 http://parahoyestsidio.duckdns.org:5050
@@ -5811,6 +5856,7 @@ http://personasinicio.xin
 http://peru2022peru.duckdns.org
 http://pgfjh.cn/caonima=nqisrsma.co.jp/
 http://phentermine-partial.gl.at.ply.gg
+http://phh79b4.localto.net
 http://pivirottorealestate.com
 http://places.creeksidehuntingpreserve.com
 http://plastformspecial.com
@@ -6032,6 +6078,7 @@ http://shgodh.cn
 http://shipboot.com
 http://shlpf.cn
 http://shtyhotel.com/top/client/select_PC.php
+http://sign-in-to-xfinity-1.weeblysite.com
 http://silpon.com
 http://simulatorsmods.com
 http://sindh.police.fia-gov.com
@@ -6544,6 +6591,7 @@ http://zijarb.cn
 http://zjhyolxupf.work
 http://zkfvjh.cn
 http://zkservice.cloud/api/v1/process/1007
+http://zksrdmff9.localto.net
 http://zoonm.ddns.net:35890
 http://zouonsewewlllkoi.hkwofus.com
 http://zryviz.cn
@@ -6642,6 +6690,7 @@ https://101.33.221.102/dpixel
 https://101.34.251.178/metro91/admin/1/ppptp.jpg
 https://101.34.58.211/hp/api/v1/carousel
 https://101.34.83.35/jquery-3.3.1.min.js
+https://101.35.227.40/omp/api/get_page_config
 https://101.36.117.53/ga.js
 https://101.37.14.112/en_US/all.js
 https://101.37.31.139/pixel
@@ -7946,6 +7995,7 @@ https://970182-coinbase.com
 https://97uhpa.cn
 https://98985555.com
 https://98pao6ujb6nm.azureedge.net/4160/
+https://99bitcoin-app.pages.dev
 https://99nxbn.com
 https://99snowmeprona.sa.com
 https://9bz7ca.cn
@@ -8507,6 +8557,7 @@ https://aeroinstagram.com.tr
 https://aerosiki.com
 https://aerotrackier.com
 https://afakdqc.top/?1amtstsa
+https://affiliate-scroll.com
 https://affixchain.xyz
 https://afgyvft2.duckdns.org
 https://afternjklted.wikaba.com
@@ -8522,6 +8573,7 @@ https://agreeable-island-0e0ad5c10.4.azurestaticapps.net/werrx01USAHTML/?bcda=(0
 https://agreeable-moss-017190c10.4.azurestaticapps.net/werrx01USAHTML/?bcda=+1-833-931-3695
 https://ah.trustsave.cc
 https://ahcyt.com
+https://ahfosdds.com
 https://ahhshzs.com
 https://ahkxfilter.com
 https://ahlhls.com
@@ -8583,6 +8635,7 @@ https://airdropbinancebnb.click
 https://airdropclaim.info
 https://airdropfuel.world
 https://airdropjupiter.live
+https://airdroploot.com
 https://airdrops-bio.xyz
 https://airdrops-crypto.com
 https://airdropsonic.run
@@ -8606,6 +8659,8 @@ https://ajlagarriga.cat/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fa
 https://ajx2f0.cn/aeon
 https://akfinanskasimayifirsatodemesi.xyz
 https://akitavaxtoken-claim.online
+https://akqa583.it
+https://akqa715.it
 https://akrywsfb.top
 https://aksharalbum.com/wp-admin/Amazon.co.jp/
 https://aktualisierung-paypal.com/readme.php
@@ -8636,6 +8691,7 @@ https://allocation-fuel.network
 https://allocation-sky.money
 https://allocation-superrare.com
 https://allocations-anime.com
+https://allocations-morpho.xyz
 https://allocations-wisemonky.pages.dev
 https://allow-pengu.com
 https://allstarprivate.net
@@ -9082,6 +9138,8 @@ https://arbitime.xyz
 https://arbitrum-claim.christmas
 https://arbitrum-clalm.run
 https://arbitrum-clalms.run
+https://arbitrum-exclusive.info
+https://arbitrum-exclusive.org
 https://arbitrum-rewading.run
 https://arbitrum-rewading.today
 https://arbitrum-rewading.world
@@ -9096,6 +9154,7 @@ https://arbitrumcapital.xyz
 https://arbitrumclaimdrop.net
 https://arbitrumconnect.xyz
 https://arbitrumdefi.xyz
+https://arbitrumetf.xyz
 https://arbitrumhub.xyz
 https://arbitrumjournal.xyz
 https://arbitrumlabs.xyz
@@ -9206,6 +9265,7 @@ https://att-message-100582.weeblysite.com
 https://att-revise-12.weebly.com
 https://att-signin.vercel.app/signin
 https://att-yahoo-104644.weeblysite.com
+https://att-yahoomanagementsofficalwebsite.weeblysite.com
 https://attacc.weeblysite.com
 https://attcom-105973.weeblysite.com
 https://attdjjdiipoggo2024.weeblysite.com
@@ -9452,6 +9512,7 @@ https://bec.security-ssl.org/fwlink
 https://because.yhmnpnorvb.com/msidecrt.php?sinvu7yfte=1/
 https://becerixiz.com
 https://beenpro.top
+https://beets-fi.com
 https://befilabs.foundation
 https://behasgun-num.longmusic.com
 https://beingchar.d37rj81dk0hbna.amplifyapp.com
@@ -9495,6 +9556,7 @@ https://bhfe7a.cn/?wel7kzfh
 https://bhiwire.com
 https://bhk-44d.pages.dev
 https://biandanbao.com
+https://bianvip.cc
 https://biaswap.org
 https://biblejkhgfh.zzux.com
 https://biceos.net
@@ -9555,13 +9617,16 @@ https://bitflyer.com.lpdar.com/?onetime=&token=
 https://bitflyer.com.sdoip.com/?onetime=&token=
 https://bitgertrewardfinance.pages.dev
 https://bitget-stake.com
+https://bitgridn.top
 https://bithub.asia
 https://bithub.bot
+https://bithumb-verifyliquidity.netlify.app
 https://bitkuberc.cc
 https://bitkubitoe.com
 https://bitlang.com
 https://bitvavo635.vip/index/index/lang/ar-ar/Trade/tradelist/Trade/tradelist
 https://bitvavo635.vip/index/index/lang/tr-tr/Trade/tradelist/Trade/tradelist
+https://bitworxt.top
 https://bizlying.com
 https://bizsol.sevenabeank.com
 https://bizsol.sevenabeank.top
@@ -9601,6 +9666,7 @@ https://blm-wiki.com/Validate/v8.18/84LE6PSOHS
 https://blmdiscount.com/Level/v3.82/1THWFWTJJ8
 https://blnance-ava-smartcontractreward.com
 https://blnancetr.com
+https://blockadvice.top
 https://blockchain-resolve-online.com
 https://blockchain-tool.web.app
 https://blockchainchange.xyz
@@ -9613,10 +9679,13 @@ https://blockchainsbridge.pages.dev
 https://blockchainterra.net
 https://blockchaintradee.com
 https://blockchaiweb.pages.dev
+https://blockd.top
 https://blockdag-networknets.web.app
 https://blockdag-vercel-network.pages.dev
 https://blockdefia.com
+https://blockdexi.vercel.app
 https://blockfixer.site
+https://blocktasky.top
 https://blockxdagnetwork.live
 https://blondelllaw.com
 https://bloxtools.online
@@ -9681,6 +9750,7 @@ https://bnmxzgds.xyz
 https://bnnibryodezxgn.com
 https://bnrqohy.top
 https://bnwydzunpoyaha.com
+https://board-jup-ag.web.app
 https://boatdealerprofitsbook.com
 https://boatsandbones.com
 https://boatsandbones.com/login
@@ -9797,9 +9867,12 @@ https://bxcyblh.com
 https://bybin.xyz
 https://byllx.io
 https://bytebitconn.pages.dev
+https://bytetaskn.top
+https://byteworxt.top
 https://byug7qo8kkkloqibzin4yoibtnoolp4jac.pages.dev/smart89/
 https://bznwwwb.top/?8yzp51pc
 https://bzwmkeji.com
+https://c.ollab.land
 https://c0tllins-id47.info
 https://c0uranyjp-id47.info
 https://c0uranyjp.net
@@ -9812,6 +9885,7 @@ https://c4abf447.caspio.com/dp/5d09d00065e1bb55dbd2424e82ef
 https://c8k8e0.com
 https://ca-net-fix-assistenzaonline.codeanyapp.com/neet/net/net/login.php
 https://ca20.buzz
+https://caa192.it
 https://caa235.it
 https://cabbage-19kr-bdqi.cajeyip171.workers.dev
 https://cabinet-iip2-8wqp.e2ghkywg.workers.dev
@@ -9942,6 +10016,7 @@ https://cdn-carbonat.kimcuonghoanmy.shop/server/api-v1/
 https://cdn-generic.cyou/o.txt
 https://cdn-lnk-075.epsonupdate.uk/IE9CompatViewList.xml
 https://cdn-lnk-075.epsonupdate.uk/load
+https://cdn-phantomwalletapp.webflow.io
 https://cdn.dadadsadaccsoong.top/api/x
 https://cdn.dadadsadaccsoong.top/jquery-3.3.1.min.js
 https://cdn.dadadsadaccsoong.top/load
@@ -9969,6 +10044,7 @@ https://celestia.gift.post-tech.co
 https://celestia.global-connect.biz
 https://celestia.online
 https://celestia.web3-wel.come.xyz
+https://celestiaairdrop.xyz
 https://celestiaio.pages.dev
 https://celestialabs.dev
 https://celestian-io.pages.dev
@@ -10003,8 +10079,10 @@ https://chaaat-a150.ahiamsomkyyuo.workers.dev
 https://chain-web.online
 https://chainbank-networks.pages.dev
 https://chainbridging.xyz
+https://chainfy.top
 https://chaingeprotocols.com
 https://chainsimplifydapp.pages.dev
+https://chainzone.top
 https://chalnlinktreasury.net
 https://chamiee.cc
 https://championsweden.com
@@ -10050,6 +10128,7 @@ https://chicagoindyads.com
 https://chickporno.com
 https://chicloom.com
 https://chillguynewyear.com
+https://chillpengu.info
 https://china-hp1.com/eizzyman/result.php
 https://chinaptbba.com
 https://chintai-rewards.com
@@ -10146,6 +10225,7 @@ https://claim-shdwdrive.net
 https://claim-shitcoin.xyz
 https://claim-sonicfoundation.com
 https://claim-soniclabsfoundation.net
+https://claim-sullend.net
 https://claim-swarnmode.com
 https://claim-tevaera.com
 https://claim-tokenportal.pages.dev
@@ -10222,6 +10302,7 @@ https://claims-monadevm.xyz
 https://claims-odos.xyz
 https://claims-omniagent.com
 https://claims-pawstoken.org
+https://claims-pepecoin.app
 https://claims-rektcoin.com
 https://claims-scoutly.com
 https://claims-scoutlygg.com
@@ -10425,8 +10506,10 @@ https://coinbasewallet-backup.com
 https://coinchainprotocol.web.app
 https://coincheck.fmzgy.com
 https://coincheck.yqmfs.com
+https://coincraftv.top
 https://coindo.me
 https://coinexchangecanada.ca
+https://coinforgez.top
 https://coingamers.fun
 https://coingape.com/crypto-scam-coin-mixer-fixfloat-faces-26m-exploit/
 https://coingape.com/crypto-scammer-ian-freeman-ordered-to-pay-3-5m-restitution/
@@ -10438,10 +10521,13 @@ https://coinnode-dapp.pages.dev
 https://coinnodesync.com
 https://coinsonic.org
 https://cointaap.com
+https://cointaskc.top
 https://cointelegraph.com/news/new-scam-drains-wallets-without-user-approving-transaction
 https://cointelegraph.com/news/online-pastor-charged-crypto-scam-says-god-made-him-do-it
 https://cointiply-claim.com
 https://cointra.buzz
+https://coinweb3.world
+https://coinwizr.top
 https://cojpcoco.com/index.php
 https://colissimo-livraisons.com
 https://collab.api-land.com/collab/
@@ -10491,6 +10577,7 @@ https://connect-walrus.com
 https://connect-wenwencoin.com
 https://connect.securespage.net
 https://connect.wallitiq.app
+https://connectauthsupport.web.app
 https://connectautofixing.vercel.app
 https://connected-bckrcom.pages.dev
 https://connectionesupply.com
@@ -10617,6 +10704,7 @@ https://cowebull.com
 https://cpanel.app-roninchain.com
 https://cpanel.lynfinancial.com.au
 https://cpanel.trustwallet8.com
+https://cpanelwp1.veracodenew.eight25sites.com
 https://cpavirtuals.xyz
 https://cpcalendars.ledger-live.io
 https://cpcalendars.lynfinancial.com.au
@@ -10656,6 +10744,7 @@ https://cronos-reward.net
 https://cronoscro.org
 https://crossfitterapa.com
 https://crowdswap.online
+https://crownpublishing.net
 https://croxfilesyhhf.github.io/hacksonlines/
 https://crrwrmxl.top
 https://crtlto.top/?wel7kzfh
@@ -10676,9 +10765,12 @@ https://cryptoallstarr.live
 https://cryptoallstars-update.pages.dev
 https://cryptobridge.eu
 https://cryptocloud.pages.dev
+https://cryptoconsult.top
 https://cryptocurrencywallet.xyz
 https://cryptodigitalcoin-invest.com
 https://cryptodrainers.com
+https://cryptof.top
+https://cryptogridy.top
 https://cryptoinfosec.net
 https://cryptokeninvestimentos.com.br
 https://cryptomainettapps.in
@@ -10687,7 +10779,9 @@ https://cryptoo.christmas
 https://cryptopulse.top
 https://cryptorealestate.agency
 https://cryptosallstars.info
+https://cryptotaskv.top
 https://cryptotradertrustedplatform.com
+https://cryptoworxx.top
 https://cryptoyf.top
 https://crytptoallstars.pro
 https://cs.eocambo.com/sagwa/
@@ -10712,6 +10806,7 @@ https://csmoneo.com
 https://csone.cfd/auth/login.php
 https://css2.officeserver.at/cm
 https://cssmorney.com
+https://csx675.it
 https://csxsteam.com
 https://ct8vfnrt6.duckdns.org
 https://cterm.us
@@ -10938,17 +11033,27 @@ https://decrypt.co/214682/doj-charges-three-people-in-1-9-billion-crypto-scam
 https://dedlsl.top/?p6d828qb
 https://deeceem.z28.web.core.windows.net
 https://deer-j2hf-xjs8.dwla40k4.workers.dev
+https://def0321.vip
+https://def075.vip
+https://def4111.vip
+https://def4366.vip
+https://def9866.vip
 https://defeciordes.com
 https://defi-0.vip
+https://defi-01.vip
 https://defi-07.vip
+https://defi-2.vip
 https://defi-88.cc
 https://defi-bn.top
 https://defi-claim.online
+https://defi-dexs.net
+https://defi-dexs.org
 https://defi-lama.xyz
 https://defi-llama.github.io
 https://defi-mode-app.network
 https://defi-process.top
 https://defi-protocol-cjs.pages.dev
+https://defi-vip.me
 https://defi-wallets.cc
 https://defi.basebot.finance
 https://defi.bike
@@ -10964,8 +11069,13 @@ https://deficryptocoinexm.com
 https://defidapppages.com
 https://defieth.fun
 https://defieth.online
+https://defieth.shop
+https://defifarming.top
 https://defii.cc
 https://defimastes.com
+https://defivpkordes.com
+https://defivplordes.com
+https://defociordes.com
 https://deft-quokka-060d97.netlify.app
 https://degencoinflipsol.cc
 https://degenswhitelist.pages.dev
@@ -10989,9 +11099,11 @@ https://denizkoy.com
 https://densina.com
 https://deonhughes.autos/sauce/more/?col=three
 https://depictrgrhg.mefound.com
+https://deppradar.lol
 https://designparty.sx/e/a8mgqhdg7von
 https://desk-20pw-46c4.nmun8mre.workers.dev
 https://desra.network
+https://destaked.info
 https://destca.network
 https://destorygame.top/?p8vs27xf
 https://destra-networks.pages.dev
@@ -11067,6 +11179,7 @@ https://dhnxignm.com
 https://dho.cool
 https://dho.plus
 https://dhomax.com
+https://dhomax.vip
 https://dhs1fw.duckdns.org
 https://dhu95.com
 https://dhw507.com
@@ -11081,9 +11194,11 @@ https://dig.fuli-oa.cn/en_US/all.js
 https://dig.fuli-oa.cn/fwlink
 https://digihparm.com
 https://digital-blastfoundation.com
+https://digitalbitbox.com
 https://digitalborger.com
 https://digitalink.hu/aaa/AMEN/en.php
 https://digitalmintx.com
+https://digitalsmart-syncingpad.pages.dev
 https://digitalweb.live
 https://digitalwebchain.xyz
 https://digitechcareindia.com
@@ -12013,6 +12128,7 @@ https://ethenaappconfig.pages.dev
 https://ethenta.xyz
 https://ether-consol.com
 https://ethereumgasfee.com
+https://etherfi-pool.app
 https://etherfi-web.icu
 https://ethergas-scan.org
 https://etherket.org
@@ -12032,6 +12148,7 @@ https://etleubr.com
 https://etsy-sk.order6975.eu/verif/6815183
 https://etuktuk-io.uno
 https://eu-web3systems.com
+https://eu-web3systems.online
 https://eu.webmailservice.at/ca
 https://euc289.com
 https://eurocaja-dispositivos.com/home.php
@@ -12122,6 +12239,7 @@ https://fantrintr-ecei.fartit.com
 https://faracster.xyz
 https://faradayvoucher.info
 https://farm.sophondao.cloud
+https://farmix.top
 https://fas1-rakubank.omjcf.cn
 https://fasaksfa2.top
 https://fasiaqcpwcpyalno.com
@@ -12169,6 +12287,7 @@ https://fenhetech.com
 https://feosz.info
 https://fes-rakubank.vzzqwqg.cn
 https://fewerlloo.justdied.com
+https://ff6060.net
 https://ffm.bio/qpkd2k9
 https://fg4504mje.duckdns.org
 https://fghtrfg.sbs/%F0%9D%99%98%F0%9D%99%A4.%F0%9D%99%9F%F0%9D%99%A5
@@ -12195,6 +12314,7 @@ https://filmhr.com/aeon
 https://finalmubapen.tk/_/dtBaW6VG/GRXfsc/
 https://finalrc.com
 https://finals-otherside.app
+https://finance-kamino.github.io
 https://finance.kumbaraan.biz.id/dhl
 https://finance.kumbaraan.biz.id/ee
 https://financemajor.net
@@ -12259,6 +12379,8 @@ https://floor-contemporary-genius-accommodation.trycloudflarecom
 https://floor-protocol.com
 https://flow-fx.pages.dev
 https://flowerat.com
+https://flowstudio.app
+https://flrtrustline.live
 https://fluwii.com
 https://fluxbeam.app
 https://fmh2019.com
@@ -12272,6 +12394,7 @@ https://fnb2wa.cn
 https://fns851.com
 https://fnshopkn.com
 https://fo609.com
+https://fodjsofnmskjefghfnkfldd.site
 https://foffeepotczechsz.zzjdmp.com
 https://foiuyftdrtf.online/ex0i9o8i7ytfg76tfuiijouiyfdtrfghjiuygfyrthghuyftrghiugyhj/
 https://foldbook.net
@@ -12469,6 +12592,7 @@ https://geheimeaffaire.com
 https://gekuykan.mrbasic.com
 https://gelijiadian.com
 https://gellyte.es/1adabd9b-6e58-4a7e-bbd8-c65bab532ad8/3mail@b.c
+https://gemini-99.com
 https://genbpevoveherse.cf/k/4vIFbGets/jnbPN8/
 https://gencloudsupercore.pages.dev
 https://geneadkins.com
@@ -12501,6 +12625,7 @@ https://getprotectly.cosmos-networks.com
 https://getshiba.fans
 https://gfawsd.icu
 https://gfhgu.pages.dev/robots.txt
+https://gfs737.it
 https://gg7070.net
 https://ggffdshs.com
 https://ggffdsvcx.com
@@ -12542,6 +12667,7 @@ https://ghjiuyhfg.xyz
 https://ghjiuyhgf.xyz
 https://ghnrryfd.umb.market
 https://ghppbf.top/?8yzp51pc
+https://ghsneefe.com
 https://giantkino.ru/1buying#rec205976220
 https://gids-ir7y3.ondigitalocean.app/hrk0x00786xWnx009xhrkrrk00x/index.php?cezp=611h5axtlrs5egsk-at7t.com-789
 https://gifdgfgwa.jungleheart.com
@@ -12553,6 +12679,7 @@ https://gifts-usualmoney.com
 https://giftsteam.ru
 https://gigachad-claim.com
 https://gigachads.finance
+https://gignex.top
 https://gigslua.top
 https://gijbbw.cn/Smdhuax
 https://gijbbw.cn/Smdhuax/
@@ -12657,6 +12784,7 @@ https://graph-prize.net
 https://graphitemv.com/swiss/app/index.php?userid=8ff1865a882da8c451315b9107e3dbd6&ue=8b04d4be05ad990788db826ae55cd4a3
 https://grass-airdrop.org
 https://gray-flower-0d528af10.4.azurestaticapps.net/werrx01USAHTML/?bcda=(0101)-50995-72334
+https://graybarcorp.com
 https://grayhatempire.com
 https://greatnorthswim.blogspot.com
 https://greenaevents.ffm10.site
@@ -12866,6 +12994,7 @@ https://hello-world-twilight-field-f884.mrinaldi.workers.dev
 https://hello-world-wandering-leaf-cc3b.87mymr8i.workers.dev
 https://helloboy.shop/functionalStatus/M2m9ioDW7RSEqasWcw04yAC
 https://help-cdn-wallt-phantom.teachable.com
+https://help-colnbase.com
 https://help-ent-metamsk.teachable.com
 https://help-ledger-en-us-support.teachable.com/p/home
 https://help-ledgr-pages-en-us.teachable.com/p/home
@@ -12986,10 +13115,13 @@ https://hnzyit.com
 https://hoang4g.com
 https://hodlit.rf.gd
 https://hokiqep.cn
+https://holders-aixbt.com
 https://holders-simonscats.com
 https://holoworld.community
 https://holoworld.financial
 https://holoworld.markets
+https://holoworldai.markets
+https://holoworldai.trade
 https://holtirubremulseals.tk/_/Fx8DBg0Y/HCVnO1/
 https://hom.cabul.bbtecno.com/download/
 https://home-online-15c8.tenakiw192.workers.dev
@@ -13091,6 +13223,7 @@ https://hygjyl.com
 https://hymzyt.com
 https://hypeducks.fun
 https://hypercycle.org
+https://hyperlane-claims.xyz
 https://hyperliquid-airdrop.pages.dev
 https://hyperliquid-airdrop2.pages.dev
 https://hyperliquid-foundation.com
@@ -13586,6 +13719,8 @@ https://jlqxjy.com
 https://jmcnhc.top/?wel7kzfh
 https://jmyytz.com
 https://jnjkbb.com
+https://jnv376.it
+https://joblynxy.top
 https://jodieandthelibrarycard.com
 https://joetrade.xyz
 https://joeyhampton.autos/rebalancing/spoke/?box=white/
@@ -13593,6 +13728,7 @@ https://johncooklawyer.com/mxx/cvv.php
 https://johnnycantrell.autos/nodes/module/?box=white
 https://join-shardeum.org
 https://join-superverse.org
+https://joinairdrop.org
 https://joinreig-mber.organiccrap.com
 https://jokeklswsffgd.jkub.com
 https://jokoshow.com
@@ -13661,6 +13797,7 @@ https://jp.mmeerrcari.com.ojanzallzc.top/pc/index.php
 https://jp.mmerricari.com.yiyaodao.com/pc/index.php
 https://jp.mzeacrcavri.zbehoupcgawzvvie.com
 https://jp.mzezericiari.ntgsbj.com
+https://jpa1.zync.us.kg/load
 https://jpamareuirhallibi.cili888.com
 https://jpkjhj.z11.web.core.windows.net
 https://jpp.dv-tube.com
@@ -14061,9 +14198,13 @@ https://linkpayy.com
 https://linkst.buzz
 https://linkthechain.com
 https://linux-dbox.com
+https://lion-v.co
 https://lion-v.net
+https://lion-v.world
+https://lion-x.info
 https://lion-x.one
 https://lion-x.space
+https://lion-x.tech
 https://lipsypoiop.com
 https://liquidityminer.top
 https://liquidus.digital
@@ -14122,6 +14263,7 @@ https://lntesasanpaolo.5-250-191-44.cprapid.com
 https://lntxz.cn/sagawHJKWER23123qijh123JKLEWJ5234HJ/?m=000&t=000&ip=xx.xx.xx.xx&language=ja&d=000
 https://lock0pyl-ttw1p2n12i.live-website.com/ch/secure/3/4.php?join-us.x=13fe90de3fd2487a4378fee36194d11a13fe90de3fd2487a4378fee36194d11a
 https://lod.pages.dev/account/js-reporting/?crumb=uZ4.07kERLI&message=javascript_not_enabled&ref=%2Faccount%2Fchallenge%2Fpassword
+https://loggsinmattemskk-zzx.godaddysites.com
 https://login-amreicanexpaeras.omoxxf.com/jp
 https://login-att-10382.weeblysite.com
 https://login-macerai.gofsog.com
@@ -14324,6 +14466,7 @@ https://maisatoumacacol.gq/_/3pGk0eaCr/Ka63Qa/
 https://makanaa.pages.dev/robots.txt
 https://maliyestrgov425.com
 https://malpwsdeqadf.qhigh.com
+https://mamamasklogin.godaddysites.com
 https://manage-subs-inforenewal.work.gd/signin
 https://management.celestiadao.app
 https://mandahouse.cn
@@ -14364,8 +14507,10 @@ https://mastercard.ja-jp.cgeynp.cn
 https://masterkingwin24.pages.dev
 https://masylvester.com/Xapz
 https://matamask-logi.teachable.com
+https://matamask-login-us.godaddysites.com
 https://matamask-wallet.teachable.com
 https://matamask-walt.webflow.io
+https://matamaskiologin.godaddysites.com
 https://matemank.io
 https://matetamasmm-logi.godaddysites.com
 https://matibeku.com
@@ -14384,6 +14529,8 @@ https://mayajaya.online/ededewde73465237645iugfsegf734o7234khdgksjhgf7465/
 https://mayanboats.com/wp-content/uploads/
 https://mayday090.com
 https://mayfl.cc
+https://mayfl.top
+https://mayfl.xyz
 https://mayflower-poodle-d8x3.squarespace.com
 https://mazncd.xyz/login.php
 https://mazndj.xyz
@@ -14421,6 +14568,7 @@ https://mcfupdservice.com/activity
 https://mdm4xnm.duckdns.org
 https://me-ta-ma-sak.netlify.app
 https://me.catzgroups.cc
+https://meamasklogin8.godaddysites.com
 https://measureofhowmuch.s3.us-west-004.backblazeb2.com/corporatebusiness.html
 https://meaunamichelle.com/Xapz
 https://meauwellkovskindse.tk/_/QCoXYWcR2/NsC8fP/
@@ -14432,6 +14580,8 @@ https://mediabluesky.com/uploaded_docs/Invoice_72947.pdf
 https://mediolanum-aplicacion.com/login
 https://medizedum-box.zyns.com
 https://meetamaskwlletxtension.webflow.io
+https://meettaa-mskklooggsin.godaddysites.com
+https://meettamaskiloggi.godaddysites.com
 https://megiceden.io
 https://mehkjme.cn
 https://mehmeklemertmuhtar.com
@@ -14442,7 +14592,10 @@ https://meiren51.com
 https://meiren88.com
 https://meishidaily.com
 https://meitesibangweionline.net
+https://meittaammasskei-loogge.godaddysites.com
+https://meizicbima.com
 https://melissagliebe.com
+https://memamask-luggies.godaddysites.com
 https://member.ufj-online.com
 https://member_rekntau_co_jp.zhangyeyong.com
 https://memeai-coin.pages.dev
@@ -14450,6 +14603,7 @@ https://memekombat-staking.xyz
 https://memesreum-net.pages.dev
 https://memetools.pro
 https://menadomafarms.com
+https://mendiifinancee.teachable.com
 https://mengzhipeng.xyz
 https://mensiquwasmrndufidkf.weebly.com
 https://mental.nangrong.ac.th/shiping/
@@ -14502,23 +14656,34 @@ https://mertaamskchroemestenson.webflow.io
 https://merterkurutemizleme.com
 https://mertitvc.ac.ke/uill/LiinkedInhardest/900/
 https://merunria.sailorsmail.net
+https://meskk-mett-asigninz.godaddysites.com
 https://messagingcoinbase.com
 https://met-a-mask-wallet.netlify.app
 https://meta-cryptos.com
 https://meta-mask-wallet-extension.teachable.com
+https://meta-masklugincu.godaddysites.com
 https://meta-mconnect.web.app
 https://meta-mskmask-logjjin.godaddysites.com
+https://meta-muskkuslog.godaddysites.com
 https://meta-restoration-page.com
 https://meta.help-support-bussines.my.id/Get-Started/
+https://meta0masklgaan0x.godaddysites.com
 https://metaaermibklogin.webflow.io
 https://metaapesgames.com
 https://metaduskilgkd.godaddysites.com
 https://metafight-airdrop.com
 https://metahmaskwalletextension.webflow.io
+https://metai-mask-logiin2.godaddysites.com
+https://metaimaskiox.godaddysites.com
+https://metaimsklogono.godaddysites.com
+https://metakamakwalet.godaddysites.com
+https://metalog-maskwlt2.godaddysites.com
 https://metamaaskextensionse.webflow.io
 https://metamacsk-logiin.godaddysites.com
+https://metamaeskloegin.webflow.io
 https://metamansk-blockchain.com/e/authID=nlAkY/
 https://metamasckextenssion.webflow.io
+https://metamasenmanoginn.godaddysites.com
 https://metamask--wallet--io.webflow.io
 https://metamask--wallet-io--cdn.webflow.io
 https://metamask-c.com
@@ -14532,6 +14697,7 @@ https://metamask-help.pages.dev/cla/
 https://metamask-hhelp.webflow.io
 https://metamask-in-logi.teachable.com
 https://metamask-metamask.io
+https://metamask-official-loggi.godaddysites.com
 https://metamask-popup.pages.dev
 https://metamask-s-a-wallet.teachable.com
 https://metamask-secure-extension.teachable.com
@@ -14590,37 +14756,57 @@ https://metamasskcchromextensionb.webflow.io
 https://metamasskchromextensioni.webflow.io
 https://metamasxklogni.webflow.io
 https://metamatmasogin.webflow.io
+https://metamaxh-wallet.godaddysites.com
 https://metamaxtrsion.webflow.io
 https://metamenk-crome.webflow.io
 https://metamesk.me
 https://metamgaskwallet.webflow.io
+https://metamkss-logiienz.godaddysites.com
 https://metammeasklogin.webflow.io
 https://metamotto--wallet-org.webflow.io
 https://metamskp.cc
 https://metamsskchromextension.webflow.io
 https://metamssskwallet.webflow.io
 https://metamusk-logiiz.godaddysites.com
+https://metamwfc.top
+https://metan-masckq-loggjiin.godaddysites.com
 https://metaplexsolana.tech
 https://metasr.net
+https://metatamacklog.godaddysites.com
 https://metauskuugine.webflow.io
+https://metausmaskliogi.godaddysites.com
 https://metaweb-connectrestore-page.webflow.io
+https://metemesk-logiin.github.io
 https://metha-maskes-lugincceis.godaddysites.com
+https://methamaskeslugiysss.godaddysites.com
 https://methamseloginuss.webflow.io
 https://meticamasklog-in.webflow.io
+https://metimazk-log-usa.godaddysites.com
+https://metismsklogm-usa.godaddysites.com
 https://metmakeswalt.webflow.io
 https://metmaskcromextensionz.webflow.io
+https://metmaskluginwwz.godaddysites.com
 https://metnosphereozono.sgwdz.com
 https://metomaskwallet.teachable.com
+https://metomousk-logi-in.godaddysites.com
 https://metro-leisure.com
 https://metroknqvvvre.com
 https://metsk.app
 https://metsmextension.webflow.io
 https://metsreckslogin.webflow.io
+https://mett-amuskkflowgn.godaddysites.com
+https://metta-xm-mask-am-logiin.godaddysites.com
+https://mettamask-logsin-86uk.godaddysites.com
 https://mettamaskwalet.teachable.com
+https://mettamasqk-logsin.godaddysites.com
 https://mettamasskloginus.webflow.io
 https://mettamskkchrmextenson.webflow.io
+https://mettamskloggyes-xy.godaddysites.com
 https://mettamskluginn.webflow.io
+https://mettasmiskilogi.godaddysites.com
 https://mettemaskk-wallet.webflow.io
+https://metuammski-lgin.godaddysites.com
+https://metymusk-log-inn.godaddysites.com
 https://meuimportadinhofoz.com
 https://mevstrategy.blog
 https://mevstrategy.org
@@ -14685,6 +14871,7 @@ https://mint.scrllpunkdis.icu
 https://mint26-air-drop.vercel.app
 https://mintboxprotocol.web.app
 https://mintmove-debank.com
+https://minwap.org
 https://minyakwangimurah.com
 https://miraclehomemedical.com
 https://miragephotodallas.com
@@ -14696,6 +14883,7 @@ https://mirrors.office356.shop/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 https://misslovage.com
 https://mitd-dk.me
 https://miteamaeskelogien.webflow.io
+https://mitiaamske-siignix00.godaddysites.com
 https://mitosis-gov.net
 https://mitosis.org-morse.claims
 https://miuetamaeskextension.webflow.io
@@ -14714,7 +14902,10 @@ https://mllbiiv.top/?gjji3tqj
 https://mm02kw8a.duckdns.org
 https://mmetttaamasak.webflow.io
 https://mmgmf.com
+https://mmittamaklogimn.godaddysites.com
+https://mmmakkklogi-u.godaddysites.com
 https://mmordr.weebly.com
+https://mmotamast-lugiyz.godaddysites.com
 https://mmqiyi.com
 https://mnbtehdjfdfg.weebly.com
 https://mnetamaskwalletextension.webflow.io
@@ -14777,6 +14968,8 @@ https://morphwares-votes.org
 https://morphwares-votes.xyz
 https://moskvasaken.b-cdn.net
 https://mot7nzz.duckdns.org
+https://motamast-logiyz.godaddysites.com
+https://motamsck-logiez.godaddysites.com
 https://motterlandscaping.com
 https://mouiposwaporide.tk/_/tVCbAdJX/GwhdU9/
 https://move-ave.com
@@ -14810,6 +15003,7 @@ https://mpetitio-uthorit.25u.com
 https://mpf-gob.com/PIA-DenunciaDigital/Caso0138NDKA.php
 https://mpl-sushi.top
 https://mpr62i.cn
+https://mrccryptonft.com
 https://mrh168.com
 https://mri0rij.zcjmygs.cn
 https://mrkreativez.com/adobe.login/Owa/
@@ -14984,6 +15178,7 @@ https://nclozif.cn
 https://ndj.pages.dev
 https://ndk.pages.dev
 https://nea90ms.duckdns.org
+https://nebula-airdrop.com
 https://nebulastridesoesohguh.pages.dev
 https://nedkhjkqq.mrface.com
 https://nemozena.pages.dev/1apn8pixsflq/
@@ -15025,6 +15220,7 @@ https://network-manta.net
 https://network3.ai-campaign.claims
 https://networks-rnanta.com
 https://netxind.top/?wel7kzfh
+https://netxxx.us
 https://neutralprotocol.web.app
 https://neverablbe-its.misecure.com/msidecrt.php?sinvu7yfte=1
 https://neversrangper.com/paypay/
@@ -15086,6 +15282,7 @@ https://nitinjoshi.net
 https://njfstech.com
 https://njjbsfsfspegwznb.com/Xapz
 https://njxjfbjgs.com
+https://nke337.it
 https://nlmranh.top
 https://nlptuwul.top
 https://nmacouai-80bf.edohlriapdnoap.workers.dev
@@ -15230,6 +15427,7 @@ https://nx4kvv7.duckdns.org
 https://nxqpxzk.cn
 https://nxxbgg.com
 https://nyton.app
+https://nytostaked.info
 https://nzklsgi.top
 https://nzn904.com
 https://nzsexc2.nzsecure.net/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fnzsexc2.nzsecure.net%2fowa%2f
@@ -15293,6 +15491,7 @@ https://oki5nvis.duckdns.org
 https://okitsuri.com
 https://okled.cc/api/3
 https://okv386.com
+https://okxsave.vip
 https://olboysrouge.com
 https://oli872.com
 https://ollaboratio-authorita.sendsmtp.com
@@ -15317,6 +15516,7 @@ https://onighivewxswwgbqq.z31.web.core.windows.net/08OFm0/
 https://onishishokko.com
 https://online-trezor-cdn.github.io/en-us/
 https://online.defsupportconnect.com
+https://online.essaycorrection.com/app/customer/mail_delivery/
 https://onlinemmmmiiicrrossoft0039.pages.dev
 https://onlineprednisonebuy.info/App/Views/Requests/
 https://onlineverificationpax.netlify.app
@@ -15388,6 +15588,7 @@ https://opwgroup.co.in/office365/office-3D8/index.php
 https://oqbuher.top
 https://oraclecloudsig.com/translated
 https://orangebank-app.com/inicio-sesion.php
+https://orbirterfinance.github.io
 https://orbit-zr41n3r-sol.pages.dev
 https://orca-app-wdwtn.ondigitalocean.app
 https://orchidsnblooms.com/etc/
@@ -15468,6 +15669,7 @@ https://oyster-app-edlrn.ondigitalocean.app
 https://ozcie.livro.free.hr/cgi-bin/groups/group/ayzh/3mail@b.c
 https://ozostomiaozonous.sftkf.com
 https://ozostomiaozonous.thljb.com
+https://p.hanlom.app
 https://p.usertrackxxy.top/l
 https://p0g9u6.com
 https://p28q5j.cn
@@ -15508,6 +15710,8 @@ https://pak.update.nadra-pk.org/ptj
 https://paly0ch-brktd8lfdv.live-website.com/ch/secure/3/4.php
 https://panakeswap.github.io
 https://panasonickt021.com
+https://pancaekswap.com
+https://pancake--finance.web.app
 https://pancake-swap.net
 https://pancake.cn.com
 https://pancakeswap-dev.avex.ai
@@ -15641,9 +15845,11 @@ https://peanutoil.cn
 https://pearllemonlaqm.cc
 https://peckhostingde0833hdgj9hclove272hd.pages.dev/robots.txt
 https://pedromcosta.com
+https://peetadfh.com
 https://pegasus-9axaej5zh-usual-dao.vercel.app
 https://penca-cbd8.ilodnswfalen.workers.dev
 https://pendle-pools.org
+https://pendle.live
 https://pengu-eligible.com
 https://penguclaim.pro
 https://pengugift.com
@@ -15657,6 +15863,7 @@ https://pentagon.games-distribution.xyz
 https://peoe34u84xc.z19.web.core.windows.net/werrx01USAHTML/?bcda=(0101)-50995-72395
 https://pepe-unchange-portal.pages.dev
 https://pepecoin2.net
+https://pepememe-io-online.pages.dev
 https://pepesgame.com
 https://pepesunchaind.com
 https://pepeunchained-bug.pages.dev
@@ -15807,6 +16014,7 @@ https://polytrage.top
 https://polytrage.xyz
 https://pondhub.id
 https://poointch-centl.yourtrap.com
+https://poomp.fun
 https://poop.ndgnetlabs.com/c/msdownload/update/others/2016/12/29136388_
 https://poopy.aarkhipov.ru/jquery-3.3.1.min.js
 https://poopycarcredit.com/imikazu/
@@ -15947,6 +16155,7 @@ https://presale.muradcoin.io
 https://presale.muradcult.app
 https://presale.usatoken.app
 https://presale.usatoken.io
+https://presalebtcetftoken.site
 https://presalexaitoken.com
 https://pressrioassessoria.com
 https://prettymetrohomes.com
@@ -15973,9 +16182,13 @@ https://projectivenode.pages.dev
 https://projectrevolvenet.web.app
 https://projectseaclick.vercel.app
 https://prolaunchdapp.pages.dev
+https://promoripple.io
+https://pronexus.top
 https://propichain.network
+https://proposais-arbitrum.net
 https://proposal-aerodromefi.com
 https://proposal-avail.com
+https://proposal-babyionlabs.xyz
 https://proposal-babylon.xyz
 https://proposal-coinbase.com
 https://proposal-crv.net
@@ -16004,6 +16217,7 @@ https://psds-group.com
 https://psicoterapiaesse.com
 https://psiquica.net
 https://psnqcioerkjhp.weeblysite.com
+https://psps-1633.com
 https://psychicsite.net
 https://psykologer.net
 https://pt-cgd.com/Particulares/Pages/Particulares_v2.aspx
@@ -16143,6 +16357,8 @@ https://puhbjsmqfhdwlkfb.com/Xapz
 https://pulau777-5.com
 https://pulau777-6.com
 https://pumajagata.online/exeygxyuwtuwri76q53454659bcjdfgckuberygfcbuwr783458i3724/
+https://pump-fun-airdrop.online
+https://pump-fun.buzz
 https://purrhype.xyz
 https://putik.org/wp-content/uploads/?email@redacted.com
 https://putrirahmawati27.github.io/QuizDwl-Putri-Rahmawati-SI3P
@@ -16310,6 +16526,7 @@ https://qwejyuhgf.xyz
 https://qwekujhgk.xyz
 https://qwekuyjf.xyz
 https://qwekuyjgh.xyz
+https://qwertysolrayblocksnodes.pages.dev
 https://qwevcxbfh.xyz
 https://qwgzndchao.net
 https://qwsdfghjvcd.serveuser.com
@@ -16374,12 +16591,14 @@ https://randomecoins.com
 https://randread.com
 https://rarrlble.xyz
 https://rat-4qw1-kkba.wjjw28.workers.dev
+https://raybot.online
 https://raydiuln.live
 https://raydium-cto.firebaseapp.com
 https://raydium.ai
 https://raydium.trading
 https://raydiumblog.site
 https://raydiumio.us
+https://raydiumswap.teachable.com
 https://rayidium.org
 https://razebit.com
 https://razi1256.d35nrzpaaw4jbw.amplifyapp.com
@@ -16528,6 +16747,7 @@ https://requiredeqwinf-formation.wikaba.com
 https://requiredeqwinf-formation.youdontcare.com
 https://res.mall.10010.cn/mall_100_100.html
 https://reset-coinbase.servehttp.com
+https://resolvsity.pages.dev
 https://resona-customer.net
 https://resona-customers.com
 https://resona.benk.djhshs.com
@@ -16547,6 +16767,7 @@ https://resonabk-customers.net
 https://resource0091fail93xfc78u.z13.web.core.windows.net/?msclkid=991b3c062bca1050033259b44c28ae7c
 https://resourcedapps.vercel.app
 https://restake-swellnetwork.io
+https://restaking-symbioticfi.xyz
 https://restbelrarebon.tk/_/JPtrEoJt/YtgSTR/
 https://restoresprotocol.com
 https://restoretrustwalletapp.com
@@ -16563,6 +16784,7 @@ https://retrobridge.xyz
 https://retroradar.pages.dev
 https://returnmangame.net
 https://review-restrication.github.io/1azann
+https://reviewca.com
 https://reviewerfixchecker.com
 https://revisaconsultatuactcancelaciononline-debshzhdakcycbgc.canadacentral-01.azurewebsites.net/cardif.html
 https://revivaldappstech.com
@@ -16619,6 +16841,8 @@ https://rfjywwdgfhg.myddns.com
 https://rfn545.com
 https://rfz7oe.cn
 https://rgaiqjo4gr.pages.dev/smart89/
+https://rhino.financial
+https://rhinof-inance.github.io
 https://rhuraoy.top
 https://rightwhale.cn/wanshidaGDF3424Qeqbnvfdg645we312WEQWE/?m=000&t=000&ip=xx.xx.xx.xx&language=ja&d=000
 https://rihp11.icu
@@ -16973,6 +17197,7 @@ https://secure.millenniumcorporate.org/owa/auth/logon.aspx?replaceCurrent=1&url=
 https://secure.stb-inden.de/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fsecure.stb-inden.de%2fowa%2f
 https://secure.steuerberater-dick.de/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fsecure.steuerberater-dick.de%2fowa%2f
 https://secure.tjustel.se/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fsecure.tjustel.se%2fowa%2f
+https://secure.validation-metamask.io
 https://securedhlinformation.info
 https://securedweb.ath.cx/ant/1/infospage.php
 https://secureform.id.uncpapp.com/?nightmare
@@ -17147,6 +17372,7 @@ https://shomyo.secru.it/secure.html
 https://shop-1688.com
 https://shop.allinonezonedemo.com/storage/app/New%20ATT/bill.charged.html
 https://shop.amazon-aws.fr/visit.js
+https://shop.linzlin.top/jquery-3.3.1.min.js
 https://shopiingonline.online/lander/?tk=c7KLqruHwbZXSthTjsOoB4GzvgVdlnCU
 https://shopjsutice.com
 https://shoplemonbug.com
@@ -17164,6 +17390,7 @@ https://shyousheng56.com
 https://shzd56.com
 https://siaanetworkawards.pages.dev/indexed11
 https://sideshift.cc/mc9688ysu9vi.html
+https://sideshop.xyz
 https://sidusheroes-rewards.cloud
 https://sign-up-teaprotocol.xyz
 https://signclosing.ymjls22.workers.dev
@@ -17215,7 +17442,9 @@ https://skatehorde.com
 https://skdghjsgea.misecure.com
 https://skicat.info
 https://skiiinsmonkey.com/auth.php
+https://skillforget.top
 https://skillfulaimigration-io.pages.dev
+https://skillwizy.top
 https://skilnsmonekey.com
 https://skimaskeddog.com
 https://skinboxs.com/simplenavi-auth
@@ -17235,6 +17464,8 @@ https://skylernorris.autos/rebalancing/spoke/?box=white
 https://skysbs.net
 https://skywalker.infura-ipfs.io/ipfs/QmYnhHyb3Li3ePboiQctkV5Ybtc8WAX6brZMTG3ErV2LtF/DHL-AWB0349930434.htm
 https://sleamcommunlty.com/prpfiles/76560482888011967
+https://sleeplessai.org
+https://sleeplessai.xyz
 https://sleurythfndjfg.weebly.com
 https://slggxgc.net
 https://slhygy.net
@@ -17463,10 +17694,12 @@ https://sollaxyn.com
 https://solmanclouddappmastes.pages.dev
 https://solochofer.com
 https://soloconcert.cn/ETCdasJHDJKewqwegfdqeAS123342JIOQEW/?m=000&t=000&ip=xx.xx.xx.xx&language=ja&d=000
+https://solscan.ee
 https://solscanai.com
 https://solscans.org/connect/
 https://solsdrop.com/sol/ACT
 https://solsdrop.info/sol/ACT
+https://solv-flnance.xyz
 https://solvdrop.com
 https://solvisor.xyz
 https://somchet.nangrong.ac.th/shiping/
@@ -17489,6 +17722,7 @@ https://soniclabsmain-pro.com
 https://sonicmainnet.pages.dev
 https://sonicx.space
 https://sonlc-labs.net
+https://sophonxyz.web3requests.com
 https://soporte--clientes.com/login
 https://soporte-a-clientes.com/login
 https://soporte-de-clientes.com/login
@@ -17541,7 +17775,9 @@ https://ssksfifthavenue.com
 https://sslhtz.com
 https://ssnagov-report.vipcase.bg
 https://sso.biglobe.jp.net/?verify
+https://sss7.yundashoplife.com
 https://st3xyp.cn
+https://stadorlabs.com
 https://staemcommunlty.com-de.eu
 https://staffe-tocapack.gettrials.com
 https://stainl.pages.dev
@@ -17561,6 +17797,8 @@ https://stakewisedao.app
 https://stakewisedao.net
 https://stakexai.xyz
 https://staking-aixcbcapital.com
+https://staking-arbitrum.xyz
+https://staking-etherfi.com
 https://staking-immutable.com
 https://staking.retik.app
 https://stakings-etuktuk-io.pages.dev
@@ -17579,6 +17817,7 @@ https://static.errenteria.eus
 https://static.usesless.com/gateway/api/user
 https://stcamconmymmnlty.com/utrerty/bubijop/toret
 https://steaam.umb.market/1
+https://stealthmist.com/report.html
 https://steam-bonus.com/id=9541943697
 https://steam-cardgift.shop/50
 https://steam-gift50.pro/50
@@ -17631,6 +17870,7 @@ https://stmeokw.com
 https://stmeubaq.com
 https://stmeubf.com
 https://stmeubff.com
+https://stock-wel.com
 https://stonexglobe.com
 https://stool-a1j6-vcwc.kisaf46047.workers.dev
 https://stool-z3hz-eten.vwlkund1.workers.dev
@@ -17752,6 +17992,7 @@ https://sweet-moon-b5e5.burryx5428771.workers.dev
 https://sweet-zuccutto-855aba.netlify.app
 https://swifportal.pages.dev
 https://swift-activity.vercel.app/login
+https://swiftchainfullclou.pages.dev
 https://swiftdappissuesfix.pages.dev
 https://swiftmultichainprotocol.web.app
 https://swiftprocurator.pro
@@ -17827,6 +18068,7 @@ https://taohua0024.top/?gjji3tqj
 https://taohua02.top
 https://taolightsystems.com
 https://tapio.claims
+https://taskforgey.top
 https://tastytiff.com
 https://tatecoins.com
 https://tattoospic.com
@@ -17921,6 +18163,7 @@ https://test.qqweixinzhuce.top/wp08/wp-includes/dtcla.php
 https://test.tracingiallc.com
 https://testnet.layern.com
 https://testsc.50-6-171-176.cprapid.com
+https://testv9.infinexlab.com
 https://tetherstable.online
 https://tetss.top/api/3
 https://textcn.com
@@ -18182,8 +18425,10 @@ https://trumpmeme.net
 https://trust-wallet.one
 https://trustchinese.com
 https://trustepade.pw/moonwell/
+https://trustpayglopal.com
 https://trustwallet-8xr.pages.dev/robots.txt
 https://trustwallet-connect.thsite.top
+https://trustwallet-scan.com
 https://trustwallet.com.loginai.cc
 https://trustwallet.com.logince.cc
 https://trustwallet.com.loginco.cc/?ja/wallet/access/software?type=login
@@ -18335,6 +18580,7 @@ https://ukgxniw.com
 https://ukgxokw.com
 https://ukgxtbg.com
 https://ukl.pages.dev/robots.txt
+https://ukmeaitamacklogg.godaddysites.com
 https://ulip4f.com
 https://ultiuos.com/phantom/index.html
 https://ulyqfavdthekoq.com
@@ -18505,11 +18751,15 @@ https://uzhhx55.com
 https://uzhhx66.com
 https://uzhhx77.com
 https://v-eigenlayer.com
+https://v-magic-eden.com
 https://v2-beefy.xyz
+https://v2-debrigde.xyz
+https://v2-ethena.online
 https://v2-magiceden.com
 https://v2-mev.com
 https://v2-opensea.com
 https://v2-seedify.online
+https://v2-sycnswap.xyz
 https://v3-beefy.xyz
 https://v3-juptier-swap.xyz
 https://v3-liqlidswap.xyz
@@ -18518,6 +18768,9 @@ https://v4ie2y0kpacx0e3534eckpil0q1z.mrjieri.com
 https://v5erqb.cn
 https://v6o876.com
 https://v6tp5o.cn
+https://v9.stromsprotocols.com
+https://v9.stromxprotocols.com
+https://v9.tromsprotocol.com
 https://va-nc-wrongfuldeathlawyers.com
 https://vaaswire.com
 https://vabov5jsf0yxwdlu.art
@@ -18563,6 +18816,7 @@ https://vcspectre.web.app
 https://vdqlbn.cn/zxcvn
 https://vector-rewards.com
 https://vectoreserves.com
+https://vedrome.finance
 https://veety.xyz
 https://vehehyrehor.cf/k/qUSJmlDGR/JXymDV/
 https://velodromefinance.top
@@ -18587,6 +18841,7 @@ https://verify-zypto.com
 https://verify.astoricrypto.com
 https://verify.bkfumgjpp.com
 https://verify.blastscore.xyz
+https://verify.land
 https://verify.update.nadra-pk.org/visit.js
 https://verifyactivenode.co
 https://verifyquest-n.com
@@ -18657,6 +18912,7 @@ https://vote-arbitrum.xyz
 https://vote-entangle.xyz
 https://vote-gearbox.xyz
 https://vote-lidofi.com
+https://vote-luna.org
 https://vote-pinlink.com
 https://vote-solv.net
 https://vote-solvdaos.com
@@ -18797,6 +19053,8 @@ https://web3-earndrop.vip
 https://web3-pixel.com
 https://web3-remix-dev.com
 https://web3-robot.online
+https://web3-systems.co
+https://web3-v9system.com
 https://web3.unisat-wallet.org
 https://web3aerodrome.finance/connect.html
 https://web3bots.online
@@ -18984,6 +19242,7 @@ https://worker-shrill-wood-50f3.jln95cha.workers.dev
 https://worker-union-b8ec.pelixep834.workers.dev
 https://workforcecbt.com
 https://worldcoinwoco.com
+https://worldlibertyfinancialassets.com
 https://worldlibertyfinanical.io
 https://worldofwaifu.xyz
 https://worldquantthailand.com
@@ -19027,9 +19286,13 @@ https://wuyier117.pxrocgr.workers.dev
 https://wuyier157.arrerrgor.workers.dev
 https://wuyisan116.xdmxjmch.workers.dev
 https://wvvw.smbc-card.com.86mcu.cn
+https://wvw-robiox.com
+https://wvw-roblox.com.de
 https://wvw.bitlbanlk.com
 https://wvw.monzgroups.xyz
 https://wvwv-app-bltbenk.com/btbnk2/
+https://wvwv-roblox.com
+https://wvww-roblox.com
 https://ww-connect-dappradar.com
 https://ww.polsmarket.xyz
 https://ww.w-v-pass-card.com
@@ -19048,6 +19311,9 @@ https://wwesinn.cn
 https://wwewrestlers.com
 https://wwkjwkj123jk12j393939.z13.web.core.windows.net
 https://wwookaskdj09812398102389.z13.web.core.windows.net
+https://wwtgdefi.top
+https://wwthnft.top
+https://wwtkmeta.top
 https://www-airdrop-degen.com
 https://www-ama-zon.com
 https://www-binence-us.com/login/static/login.php?id
@@ -19830,6 +20096,8 @@ https://www.brvnwqh.top
 https://www.brzvhiwe.dynv6.net
 https://www.bsqrvsk.cn
 https://www.bsrdysu.top
+https://www.bsvyqh.com
+https://www.bsvyqo.com
 https://www.bsvytz.com
 https://www.btbool.com
 https://www.btcburgerturk.com
@@ -22314,6 +22582,8 @@ https://www.pumainsturkiye.com/collections/all-c-0.html?&gender=3
 https://www.pumainsturkiye.com/collections/spor-ayakkab%c4%b1-c-1.html?&gender=3
 https://www.pumashoesfrance.com
 https://www.pwmyevw.cn
+https://www.pwnnpg.com
+https://www.pwnpyv.com
 https://www.pwnvqi.com
 https://www.pwxsg.cn
 https://www.pwyrxwf.cn
@@ -22985,6 +23255,7 @@ https://www.tamnuae.cn
 https://www.tamudvm.com
 https://www.taoh21.com
 https://www.taolietou.com.cn
+https://www.taotyi.com
 https://www.tarjetacencosud-cl.com
 https://www.tbhas.com/aeon
 https://www.tbwxrib.cn
@@ -23948,6 +24219,7 @@ https://wysm3x.duckdns.org
 https://wyzxcvb.cn
 https://wzfj360.com
 https://wzh9tg.com
+https://x-launhcer.com
 https://x.gd/rk74f
 https://x0n2f8fcnsqq0w1y.z28.web.core.windows.net/6BRWgEC8/index.html
 https://x1-swap.pages.dev
@@ -24071,6 +24343,7 @@ https://xxytdy.com
 https://xxzok.top/?8yzp51pc
 https://xycnet.com
 https://xynjyy.net
+https://xyo.news
 https://xyz.verifications.io.vn/274371ghghwg
 https://xzlingdang.com
 https://y0i0s8.com
@@ -24329,6 +24602,7 @@ https://zjhyfl.net
 https://zjpphtdp9fo60oq4.azureedge.net/0567/
 https://zjyxbl.com
 https://zk-syncio.com
+https://zkfair-io.co
 https://zkjxljeansklqenta.jungleheart.com
 https://zkml.top
 https://zkpcrz.top
